@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "checksum-executor",
+    "name": "checksum",
+    "region": "ap-northeast-2"
+  },
+  "api": {
+    "id": "n2o0a2p606"
+  }
+}
