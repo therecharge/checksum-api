@@ -25,7 +25,7 @@ function get_checksum(req, res) {
 
 app.use(cors());
 
-app.get("/:id", get_checksum);
+app.get("/checksum/:id", get_checksum);
 
 // app.listen(3000, function () {
 //   console.log("Example app listening on port 3000!");
